@@ -1,6 +1,9 @@
 
 # LocalHackDay at JU submissions
 ### Hello, there  
+
+## This is sumbmission for MLH LOCALHACKDAY 
+## Where  i secure 1st runnerup out 30 teams
   
 Please make a file and add your Submission in the Template below - 
 -----------------------------------------------------------------   
